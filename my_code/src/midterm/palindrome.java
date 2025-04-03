@@ -13,37 +13,37 @@ package midterm;
 public class palindrome {
     public static void main(String[] args) {
    
-  //      Scanner in = new Scanner(System.in);
-    //    System.out.print("Enter The Word: ");
-      //  String input = in.nextLine().toUpperCase();
-        //
-        //String reversed="";
-        
-        //for(int i= input.length()-1; i>=0; i--){
-        //reversed += input.charAt(i);
-        //}
-        //if(input.equals(reversed)){
-          //  System.out.print(input+ " is a palindrome ");
-        //} else {
-          //  System.out.print(input+ " is not a palindrome ");
- //   }
-   // }
+//        Scanner in = new Scanner(System.in);
+//        System.out.print("Enter The Word: ");
+//        String input = in.nextLine().toUpperCase();
+//
+//        String reversed = "";
+//
+//        for (int i = input.length() - 1; i >= 0; i--) {
+//            reversed += input.charAt(i);
+//        }
+//        if (input.equals(reversed)) {
+//            System.out.print(input + " is a palindrome ");
+//        } else {
+//            System.out.print(input + " is not a palindrome ");
+//        }
+//    }
 
-        int numbers[][] = {
-            {1, 2, 3, 4,},
-            {5, 6, 7, 8,},
-            {9, 10, 11, 12}
-        };
-
-        //System.out.println("The elements in row 1: ");
-        //System.out.println("The elements in row 2: ");
-        //System.out.println("The elements in row 3: ");
-
-        for (int i = 0; i < numbers.length; i++) {
-            for (int j = 0; j < numbers[i].length; j++) {
-                System.out.print(numbers[i][j] + " ");
-            }
-            System.out.print(i);
-        }
-    }
-}
+//       int numbers[][] = {
+//        {1, 2, 3, 4,},
+//        {5, 6, 7, 8,},
+//        {9, 10, 11, 12}
+//    };
+//
+//for (int h= 0; h < numbers.length; h++){
+//    System.out.print("The elements of the row: " + (h + 1));
+//    
+//    
+//for (int j= 0; j < numbers[h].length; j++){
+//    System.out.print(numbers[h][j] + ", ");
+//}
+//    System.out.println();
+//    }
+//    }
+//    
+//}
